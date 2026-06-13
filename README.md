@@ -22,8 +22,9 @@ This repository showcases my work in data analysis, data visualization, and prob
 ## 🛠 Tools & Technologies
 
 - Excel (Data cleaning, Pivot Tables, dashboards)
-- SQL (learning)
+- SQL (for data extraction and manipulation)
 - Power BI (learning)
+- Python (pandas, numpy, scikit-learn, matplotlib, seaborn)
 - Data visualization
 - KPI analysis
 - LMS data management
@@ -39,14 +40,6 @@ Here I share projects related to:
 - Data visualization
 - Business and learning analytics
 - Real-world datasets
-
----
-
-## 🌱 Currently learning
-
-- SQL for data analysis
-- Power BI dashboards
-- Data storytelling and insights generation
 
 ---
 
