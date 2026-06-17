@@ -1,48 +1,54 @@
-# Hi there 👋 I'm Krystel
+# ¡Hola! 👋 Soy Krystel Cesáreo
 
-🎯 Aspiring Data Analyst with a professional background in Human Resources and training operations.
+*Licenciada en Administración por la UNIMEX y Analista de Datos por TripleTen Latam.* 
 
-Experienced in working with KPIs, operational data, and performance metrics to improve organizational processes.
+### 👨🏼‍💻 Lo que hago
 
-Currently building projects using Excel, SQL, and Power BI, with interests in People Analytics, Learning Analytics, and business data insights.
+Me especializo en transformar datos de talento, aprendizaje y operaciones en decisiones estratégicas de negocio. Mi diferenciador clave es la combinación de más de 3 años de experiencia en Recursos Humanos y Capacitación Organizacional con el uso de herramientas técnicas y modelos estadísticos para resolver problemas reales de negocio.
 
-This repository showcases my work in data analysis, data visualization, and problem-solving with data.
-
----
-
-## 🔎 What I'm currently focusing on
-
-- Data Analysis
-- Learning Analytics
-- People Analytics
-- EdTech and data-driven decision making
+Aporto un enfoque cuantitativo a la gestión humana, no sólo analizo datos, entiendo los procesos humanos que existen detrás de los números para identificar oportunidades de mejora, optimizar procesos y mitigar riesgos como la rotación de personal.
 
 ---
 
-## 🛠 Tools & Technologies
+### 🔎 Enfoque y Especialización
 
-- Excel (Data cleaning, Pivot Tables, dashboards)
-- SQL (for data extraction and manipulation)
-- Power BI (learning)
-- Python (pandas, numpy, scikit-learn, matplotlib, seaborn)
-- Data visualization
-- KPI analysis
-- LMS data management
+- **People Analytics:** Modelado y análisis estadístico para la retención de talento y optimización de la productividad.
+  
+- **Learning Analytics:** Medición del impacto real de los programas de capacitación (ROI) y adopción tecnológica.
+  
+- **Gobernanza de Datos:** Administración y limpieza de bases de datos de talento (LMS/SIRCE) garantizando la trazabilidad de los KPIs de rendimiento.
 
 ---
 
-## 📊 What you will find in my repositories
+### 🛠 Herramientas y Tecnologías
 
-Here I share projects related to:
+- **Bases de Datos y Extracción:** SQL (Manipulación de datos, uniones, filtrado y consultas avanzadas).
+  
+- **Análisis de Datos y Programación:** Python (Pandas, NumPy, Scikit-Learn para modelos predictivos y pruebas estadísticas).
 
-- Data cleaning and preparation
-- Exploratory data analysis
-- Data visualization
-- Business and learning analytics
-- Real-world datasets
+- **Visualización y Reportes:** Power BI y Excel (Tableros dinámicos, limpieza de datos y automatización de reportes de KPIs).
+
+- **Gestión Operativa:** Gestión de datos en plataformas LMS y herramientas de encuestas avanzadas.
 
 ---
 
-## 📫 Let's connect
+### 📊 ¿Qué encontrarás en mis repositorios?
 
-- LinkedIn: www.linkedin.com/in/krystel-cesareo-g
+Aquí comparto proyectos aplicados a escenarios de negocio reales donde demuestro mis habilidades en:
+
+- **Limpieza y preparación de datos:** Tratamiento de inconsistencias y automatización de pipelines de datos.
+
+- **Análisis exploratorio de datos (EDA):** Identificación de patrones de comportamiento y correlaciones operativas.
+
+- **Prueba de hipótesis estadísticas:** Validación de datos mediante metodologías científicas (como pruebas T de Student).
+
+- **Visualización de datos:** Dashboards interactivos orientados a la toma de decisiones ejecutivas.
+
+---
+
+### 📫 Conectemos
+
+¿Te interesa el uso de datos para optimizar el desarrollo organizacional o colaborar en proyectos de analítica? ¡Hablemos!
+
+[![LinkedIn](linkedin.com/in/krystel-cesareo-g)](https://linkedin.com)
+[![Outlook/Hotmail](https://shields.io)](krys-23@hotmail.com)
