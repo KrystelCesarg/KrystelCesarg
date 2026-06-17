@@ -50,5 +50,6 @@ Aquí comparto proyectos aplicados a escenarios de negocio reales donde demuestr
 
 ¿Te interesa el uso de datos para optimizar el desarrollo organizacional o colaborar en proyectos de analítica? ¡Hablemos!
 
-[![LinkedIn](linkedin.com/in/krystel-cesareo-g)](https://linkedin.com)
-[![Outlook/Hotmail](https://shields.io)](krys-23@hotmail.com)
+[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/krystel-cesareo-g/)
+
+[![Outlook/Hotmail](https://shields.io)](mailto:krys-23@hotmail.com)
