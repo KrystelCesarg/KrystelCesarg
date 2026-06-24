@@ -1,7 +1,5 @@
 # ¡Hola! 👋 Soy Krystel Cesáreo
 
-*Licenciada en Administración por la UNIMEX y Analista de Datos por TripleTen Latam.* 
-
 ### 👨🏼‍💻 Lo que hago
 
 Me especializo en transformar datos de talento, aprendizaje y operaciones en decisiones estratégicas de negocio. Mi diferenciador clave es la combinación de más de 3 años de experiencia en Recursos Humanos y Capacitación Organizacional con el uso de herramientas técnicas y modelos estadísticos para resolver problemas reales de negocio.
